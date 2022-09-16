@@ -27,3 +27,13 @@ Lot 2: .06
 Lot 3: .04
 
 Assuming the significance p-value of 0.05, All lots, Lot 1, and Lot 2 perform to the standard.  Lot 3 has a P-value lower than 0.05 so we can assume that there is a higher variance and that suspension coils from Lot 3 do not meet te standard.
+
+## Design a study Comaring the MechaCar to the competition
+
+What metric or metrics are you going to test?
+What is the null hypothesis or alternative hypothesis?
+What statistical test would you use to test the hypothesis? And why?
+What data is needed to run the statistical test?
+
+
+
