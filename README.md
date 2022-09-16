@@ -15,3 +15,15 @@ The data for Lot 1 and 2 meet the design specification but since Lot 3 has a var
 
 ![image](https://user-images.githubusercontent.com/107078763/190791282-57b2a3eb-ba47-4770-8c96-0619894aeb43.png)
 
+## T-Tests on Suspension Coils
+
+![image](https://user-images.githubusercontent.com/107078763/190806045-98cbd894-8bbf-4142-b94f-efb0607ae156.png)
+
+The P-Values from the single T-Test on PSI values are compared to the standard of 1500 PSI for suspension coils.
+
+All Lots: .06
+Lot 1: 1
+Lot 2: .06
+Lot 3: .04
+
+Assuming the significance p-value of 0.05, All lots, Lot 1, and Lot 2 perform to the standard.  Lot 3 has a P-value lower than 0.05 so we can assume that there is a higher variance and that suspension coils from Lot 3 do not meet te standard.
