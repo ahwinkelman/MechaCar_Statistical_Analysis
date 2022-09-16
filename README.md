@@ -7,3 +7,11 @@
 1. vehicle_weight, spoiler_angle, and AWD provide a non-random amount of variance to the mpg values. All three variables have a p-value that is greater than .05 which indicates statisical significance.  
 2. The p-value is lass than 0 (5.35e-11), which indicates that slope is not equal to zero.
 3. The r-squared value is .7149 which means that that the model predictions are correct 71% of the time. I dont believe that this linear model effectively predicts mpg of MechaCar Prototypes because it is only accurate 71% of the time meaning the is nearly 30% of outcomes that are incorrect. 
+
+
+## Summary Statistics on Suspenion Coils
+
+The data for Lot 1 and 2 meet the design specification but since Lot 3 has a variance >100 (170) if does not meet the design specifiation for PSI.
+
+![image](https://user-images.githubusercontent.com/107078763/190791282-57b2a3eb-ba47-4770-8c96-0619894aeb43.png)
+
