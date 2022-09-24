@@ -31,9 +31,16 @@ Assuming the significance p-value of 0.05, All lots, Lot 1, and Lot 2 perform to
 ## Design a study Comaring the MechaCar to the competition
 
 What metric or metrics are you going to test?
+I would study the mechaCar fuel effeciency vs a competitor brand.
+
 What is the null hypothesis or alternative hypothesis?
+MechaCars sedans have significantly better MPG on the highway than Ford.
 What statistical test would you use to test the hypothesis? And why?
+I would use a two sample t-test to randomly test mecha car data vs ford data.
 What data is needed to run the statistical test?
+-Equal amounts of data points
+-Car brand
+-Car's highway fuel effeciency (MPG).
 
 
 
